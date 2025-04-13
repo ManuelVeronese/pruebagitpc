@@ -1,0 +1,10 @@
+git init
+git config user.name "ManuelVeronese"
+git config user.mail "manuelveronese7@gmail.com"
+git status (ver que archivos estan subids)
+git add (nombre del archivo)
+git status
+git commit -m "(mensaje del commit)"
+git log
+git remote add origin "(link del repo)"
+git push -u origin master
