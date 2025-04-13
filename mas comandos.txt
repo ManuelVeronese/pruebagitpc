@@ -1,0 +1,2 @@
+merge (unificar rama al master)
+tenes que pararte en la rama que va a recibir los cambios
